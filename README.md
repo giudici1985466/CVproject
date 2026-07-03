@@ -22,6 +22,7 @@ It includes experiments with:
 The original dataset is available at:
 https://zenodo.org/records/14963880
 
-The procedure used to obtain the reduced subset is included in the project notebook.
+The reduced one, along with training history data and trained models are available at:
+https://drive.google.com/drive/folders/1Sml7G-ksvlvq4zYbBmE8rw9Z4z1wOUfR?usp=sharing
 
 The final presentation included in the repository reports the main results and conclusions.
